@@ -1,10 +1,10 @@
-# 🎓 Smart Attendance System with AI Assistant
+# Smart Attendance System with AI Assistant
 
 An interactive, modular attendance management application built with **Python**, **Streamlit**, and **SQLite**, featuring a natural language **AI Assistant** to query student records and attendance analytics.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Web Dashboard:** Clean, responsive UI built with Streamlit for managing rosters and recording attendance.
 - **SQLite Database:** Local relational database for tracking students, courses, and daily attendance logs.
@@ -13,7 +13,7 @@ An interactive, modular attendance management application built with **Python**,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend / UI:** Streamlit
 - **Backend / Logic:** Python 3.10+
@@ -22,7 +22,7 @@ An interactive, modular attendance management application built with **Python**,
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.10 or higher installed.
